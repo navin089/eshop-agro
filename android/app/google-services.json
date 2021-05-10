@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451512937247",
+    "project_id": "eagroshop-77a8e",
+    "storage_bucket": "eagroshop-77a8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451512937247:android:7a9cd8c837e7ad43a69e2a",
+        "android_client_info": {
+          "package_name": "com.navinkodam.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451512937247-0flmp845ijqefac6r923o5ggnlhvb6k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7yaW4Kg8v7royVw3S3Zd0ywNoiVAbZww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451512937247-0flmp845ijqefac6r923o5ggnlhvb6k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
